@@ -1,0 +1,23 @@
+/*=================================================
+BASIC CSS STYLE START HERE
+==================================================*/
+*{
+    margin:0px;
+    padding:0px;
+    list-style-type:none;
+    box-sizing:border-box;
+    outline:none;
+    font-size:14px;
+    line-height:1.5rem;
+    }
+.container{
+    width:100%;
+    max-width:1200px;
+    margin:0 auto;
+    }
+/*=================================================
+BASIC CSS STYLE END HERE
+==================================================*/
+.blockquote-align{
+    text-align:justify;
+    }
