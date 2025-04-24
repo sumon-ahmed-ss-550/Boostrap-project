@@ -56,7 +56,6 @@
                 </div>
             </div>
         </main>
-
     </div>
 
     <div class="container">
@@ -96,21 +95,9 @@
                         <button class="btn btn-outline-primary btn-lg">Click me</button>
                         <button class="btn btn-outline-primary btn-lg">Click me</button>
                     </div>
-
-
-
-
-
-
-
                 </div>
-
             </div>
-
-
-
         </div>
-
     </div>
 
     <div class="container">
@@ -156,7 +143,6 @@
                     </footer>
                 </blockquote>
             </div>
-
         </div>
     </div>
 
@@ -169,11 +155,6 @@
             <a class="list-group-item bg-info text-white" href="#">Musa</a>
         </ul>
     </div>
-
-
-
-
-
 
     <!--BOOTSTRAP LINK HERE-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
